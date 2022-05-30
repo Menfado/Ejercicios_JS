@@ -1,0 +1,5 @@
+const cars = ['Saab', 'Volvo', 'BMW'];
+cars.splice(0,1,"Ford")
+console.log(cars)
+
+cars0 = "Ford";
